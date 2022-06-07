@@ -7,6 +7,6 @@ from bowling import Player
 #         self.game = Game()
   
     # Your tests here. 
-game1=Game()
-game1.start_up()
+game1=Game('tom')
+game1.play()
 
